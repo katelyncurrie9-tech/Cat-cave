@@ -36,7 +36,7 @@ Having a senior retail technology operator as a founder is a key differentiator 
 
 Thri5 has raised **$1.7M** from a focused early syndicate:
 
-- **Mistral** — One of the world's leading AI model companies, valued at **$13.7B** following a $2B Series C in September 2025. Mistral's involvement signals deep technical validation of Thri5's AI architecture at the highest level. This is not passive capital from a generalist fund — it is a frontier AI infrastructure company choosing to back Thri5's approach, which speaks directly to the credibility of the underlying technology.
+- **Mistral** *(financial investor)* — One of the world's leading AI model companies, valued at **$13.7B** following a $2B Series C in September 2025. Mistral deploying financial capital into Thri5 — not just a partnership or commercial agreement — means they have evaluated the team, the technology, and the market and made a balance sheet commitment. A $13.7B AI company does not write cheques into early-stage startups lightly. This is the single strongest credibility signal in the deal.
 - **J17 Ventures** — Early-stage technology investor with a focus on enterprise software and AI. Their participation alongside Mistral rounds out the syndicate with operational venture support.
 - **OneEleven (Ontario)** — Canada's leading innovation hub for high-growth technology companies, providing both capital and access to an enterprise customer network. Their backing adds strategic weight in the Canadian market, which is directly relevant given the Loblaws team pedigree and Wild Fork pilot.
 
@@ -98,8 +98,8 @@ The honest answer is no — for three reasons:
 - Confirm pilot KPIs and conversion path at Wild Fork
 - Pipeline beyond Wild Fork (LOIs, named prospects)
 - Cash runway under a delayed-close scenario (6–12 months)
-- Clarify Mistral relationship (financial investment vs. strategic/technical partnership)
 - Confirm Wild Fork pilot KPIs and executive sponsor
+- Pipeline beyond Wild Fork (LOIs, named prospects)
 
 ---
 
